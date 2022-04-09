@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .ms-icon {
+        fill: transparent;
+        opacity: 0.75;
+    }
+    .ms-icon svg g *{
+        stroke: rgba(0, 0, 0, 0.904);
+        /* transition: all 0.1s ease-in-out; */
+    }
+    .ms-icon svg:hover g * {
+        opacity: 1;
+        cursor: pointer;
+        stroke: #fff;
+        stroke-width: 0.75;
+    }
+</style>
+
+<body style="background-color: green;">
+    <i class="ms-icon" data="asd"></i>
+    <i class="ms-icon" data="boat"></i>
+    <i class="ms-icon" data="takip"></i>
+    <i class="ms-icon" data="gemi"></i>
+    <i class="ms-icon" data="posta"></i>
+
+
+</body>
+<script src="./jquery.js"></script>
+<script>
+    let data = $('i.ms-icon');
+    $.each(data, (index, value) => {
+        let attr = data.eq(index).attr('data');
+        fetch(attr + '.svg').then((r) => {
+            r.text().then((d) => {
+                console.log(d)
+                // $(`i.ms-icon:eq(${index})`).before(d)
+                $(`i.ms-icon:eq(${index})`).html(d)
+            })
+        })
+    })
+</script>
+
+</html>

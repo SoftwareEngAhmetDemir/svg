@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50.69" height="28.327" viewBox="0 0 50.69 28.327">
+  <g id="Group_412" data-name="Group 412" transform="translate(-265.49 89.247)" style="isolation: isolate">
+    <g id="Group_399" data-name="Group 399">
+      <g id="Path_297" data-name="Path 297" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M 287.3200073242188 -68.1099853515625 L 286.8200073242188 -68.1099853515625 L 266.489990234375 -68.1099853515625 L 265.989990234375 -68.1099853515625 L 265.989990234375 -68.6099853515625 L 265.989990234375 -81.969970703125 L 265.989990234375 -82.469970703125 L 266.489990234375 -82.469970703125 L 290.260009765625 -82.469970703125 L 290.760009765625 -82.469970703125 L 290.760009765625 -81.969970703125 L 290.760009765625 -77.8599853515625 L 290.760009765625 -77.3599853515625 L 290.260009765625 -77.3599853515625 L 287.3200073242188 -77.3599853515625 L 287.3200073242188 -68.6099853515625 L 287.3200073242188 -68.1099853515625 Z" stroke="none"/>
+        <path d="M 266.489990234375 -81.969970703125 L 266.489990234375 -68.6099853515625 L 286.8200073242188 -68.6099853515625 L 286.8200073242188 -77.8599853515625 L 290.260009765625 -77.8599853515625 L 290.260009765625 -81.969970703125 L 266.489990234375 -81.969970703125 M 266.489990234375 -82.969970703125 L 290.260009765625 -82.969970703125 C 290.8122863769531 -82.969970703125 291.260009765625 -82.52224731445312 291.260009765625 -81.969970703125 L 291.260009765625 -77.8599853515625 C 291.260009765625 -77.30770874023438 290.8122863769531 -76.8599853515625 290.260009765625 -76.8599853515625 L 287.8200073242188 -76.8599853515625 L 287.8200073242188 -68.6099853515625 C 287.8200073242188 -68.05770874023438 287.3722839355469 -67.6099853515625 286.8200073242188 -67.6099853515625 L 266.489990234375 -67.6099853515625 C 265.9377136230469 -67.6099853515625 265.489990234375 -68.05770874023438 265.489990234375 -68.6099853515625 L 265.489990234375 -81.969970703125 C 265.489990234375 -82.52224731445312 265.9377136230469 -82.969970703125 266.489990234375 -82.969970703125 Z" stroke="0" fill="#fff"/>
+      </g>
+      <g id="Group_398" data-name="Group 398">
+        <line id="Line_79" data-name="Line 79" y2="9.051" transform="translate(269.934 -79.818)" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_80" data-name="Line 80" y2="9.051" transform="translate(273.311 -79.818)" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_81" data-name="Line 81" y2="9.051" transform="translate(276.688 -79.818)" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_82" data-name="Line 82" y2="9.051" transform="translate(280.066 -79.818)" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_83" data-name="Line 83" y2="9.051" transform="translate(283.443 -79.818)" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_84" data-name="Line 84" y2="9.051" transform="translate(286.821 -79.818)" stroke="#e50019" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Group_401" data-name="Group 401">
+      <g id="Rectangle_1186" data-name="Rectangle 1186" transform="translate(286.82 -77.86)" fill="rgba(0,0,0,0)" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+        <rect width="28.36" height="15.94" stroke="none"/>
+        <rect x="-0.5" y="-0.5" width="29.36" height="16.94" />
+      </g>
+      <g id="Group_400" data-name="Group 400">
+        <line id="Line_85" data-name="Line 85" y2="10.801" transform="translate(290.925 -75.292)"  stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_86" data-name="Line 86" y2="10.801" transform="translate(294.955 -75.292)"  stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_87" data-name="Line 87" y2="10.801" transform="translate(298.985 -75.292)"  stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_88" data-name="Line 88" y2="10.801" transform="translate(303.016 -75.292)"  stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_89" data-name="Line 89" y2="10.801" transform="translate(307.046 -75.292)"  stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_90" data-name="Line 90" y2="10.801" transform="translate(311.076 -75.292)"  stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Rectangle_1187" data-name="Rectangle 1187" transform="translate(282.004 -88.247)" fill="#d9000d" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+      <rect width="12.951" height="16.911" stroke="none"/>
+      <rect x="-0.5" y="-0.5" width="13.951" height="17.911" />
+    </g>
+    <line id="Line_91" data-name="Line 91" x2="3.761" transform="translate(284.719 -84.664)" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <line id="Line_92" data-name="Line 92" x2="8.016" transform="translate(284.719 -82.334)" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <line id="Line_93" data-name="Line 93" x2="8.016" transform="translate(284.719 -80.003)" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <line id="Line_94" data-name="Line 94" x2="4.594" transform="translate(284.719 -77.673)" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <line id="Line_95" data-name="Line 95" x2="4.594" transform="translate(284.719 -75.342)" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <g id="Group_402" data-name="Group 402">
+      <g id="Path_298" data-name="Path 298" fill="#d9000d" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M 294.3096618652344 -74.73722839355469 L 294.1025390625 -74.73722839355469 L 292.461669921875 -74.73722839355469 L 291.961669921875 -74.73722839355469 L 291.961669921875 -75.23722839355469 L 291.961669921875 -76.83309936523438 L 291.961669921875 -77.04020690917969 L 292.1081237792969 -77.1866455078125 L 297.8953247070312 -82.97383880615234 L 298.2488708496094 -83.32740020751953 L 298.6024169921875 -82.97383880615234 L 300.2207641601562 -81.35547637939453 L 300.5743408203125 -81.00193023681641 L 300.2207641601562 -80.64837646484375 L 294.4560852050781 -74.88367462158203 L 294.3096618652344 -74.73722839355469 Z" stroke="none"/>
+        <path d="M 294.1025390625 -75.23722839355469 L 299.8672180175781 -81.00193023681641 L 298.2488708496094 -82.62028503417969 L 292.461669921875 -76.83309936523438 L 292.461669921875 -75.23722839355469 L 294.1025390625 -75.23722839355469 M 294.1025390625 -74.23722839355469 L 292.461669921875 -74.23722839355469 C 291.9093933105469 -74.23722839355469 291.461669921875 -74.68494415283203 291.461669921875 -75.23722839355469 L 291.461669921875 -76.83309936523438 C 291.461669921875 -77.09832000732422 291.5670166015625 -77.35266876220703 291.7545471191406 -77.54020690917969 L 297.541748046875 -83.32740020751953 C 297.7293090820312 -83.51492309570312 297.9836730957031 -83.62028503417969 298.2488708496094 -83.62028503417969 C 298.5140991210938 -83.62028503417969 298.7684326171875 -83.51492309570312 298.9559936523438 -83.32738494873047 L 300.5743408203125 -81.70903015136719 C 300.96484375 -81.31850433349609 300.96484375 -80.68534851074219 300.5743408203125 -80.29481506347656 L 294.8096618652344 -74.53011322021484 C 294.6221008300781 -74.34259033203125 294.3677673339844 -74.23722839355469 294.1025390625 -74.23722839355469 Z" stroke="none" fill="#fff"/>
+      </g>
+      <path id="Path_299" data-name="Path 299" d="M301.593-82.728l-1.618-1.618-.977.977" fill="#d9000d" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
